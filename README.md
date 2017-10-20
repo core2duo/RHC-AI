@@ -1,37 +1,71 @@
 # RHC-AI
 Саша потерял куки на телеграф, нам нужен новый способ редактирования кладези (http://telegra.ph/kladez-06-14)
 
-# 2012
+# 2012 - CodeTanks
+## Результаты
+Финал: http://2012.russianaicup.ru/contest/4/standings
+
+Песочница: http://2012.russianaicup.ru/contest/1/standings
+
+## Статьи
 1-ое место (Mr.Smile): [Путь к победе на Russian AI Cup 2012](https://habrahabr.ru/post/161333/)
 
 2-ое место (Hohol): https://habrahabr.ru/post/161501/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=168476)
 
-# 2013
+
+# 2013 - CodeTroopers
+## Результаты
+Финал: http://2013.russianaicup.ru/contest/4/standings
+
+Песочница: http://2013.russianaicup.ru/contest/1/standings
+
+## Статьи
 1-ое место: https://habrahabr.ru/post/206680/
 
 Видео доклад: http://www.moscowpython.ru/meetup/16/writing-ai-for-russian-ai-cup/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=182390)
 
-# 2014
+
+# 2014 - CodeHockey
+## Результаты
+Финал: http://2014.russianaicup.ru/contest/4/standings
+
+Песочница: http://2014.russianaicup.ru/contest/1/standings
+
+## Статьи
 1-ое место (Mr.Smile): https://habrahabr.ru/post/241553/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=192787)
 
-# 2015
+
+# 2015 - CodeRacing
+## Результаты
+Финал: http://2015.russianaicup.ru/contest/4/standings/
+
+Песочница: http://2015.russianaicup.ru/contest/1/standings/
+
+## Статьи
 Анонс: https://habrahabr.ru/company/mailru/blog/270759/
 
 1-ое место (Santa324): https://habrahabr.ru/post/273649/
 
-5-ое место (): https://habrahabr.ru/post/273745/
+5-ое место (SKolotienko): https://habrahabr.ru/post/273745/
 
-30-е место (): https://habrahabr.ru/post/273579/
+30-е место (ruspartisan): https://habrahabr.ru/post/273579/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=207554)
 
-# 2016
+
+# 2016 - CodeWizards
+## Результаты
+Финал: http://2016.russianaicup.ru/contest/4/standings/
+
+Песочница: http://2016.russianaicup.ru/contest/1/standings/
+
+## Статьи
 Анонс: https://habrahabr.ru/company/mailru/blog/314594/
 
 Анонс 2: https://tproger.ru/articles/russianaicup-2016/
@@ -52,9 +86,9 @@
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=220314)
 
+
 # 2017
 Анонс: https://habrahabr.ru/company/mailru/blog/340540/
-
 
 
 # Общие статьи
