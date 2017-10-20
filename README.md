@@ -53,7 +53,7 @@
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=220314)
 
 # 2017
-TBD
+Анонс: https://habrahabr.ru/company/mailru/blog/340540/
 
 
 
