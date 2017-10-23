@@ -65,6 +65,8 @@
 # 2017
 Анонс: https://habrahabr.ru/company/mailru/blog/340540/
 
+[GameDev форум](http://www.gamedev.ru/flame/forum/?id=230771)
+
 
 # Общие статьи
 Архитектуры ИИ: https://habrahabr.ru/post/173187/
