@@ -81,6 +81,8 @@ RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
 
 [Game AI PRO](http://www.gameaipro.com/)
 
+[GDC Valut](https://www.gdcvault.com/search.php?categories=Ai#&category=free)
+
 
 
 # Статьи Codingame
