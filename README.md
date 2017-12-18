@@ -69,7 +69,7 @@
 
 
 # Общие статьи
-Инструментарий участника RAIC https://habrahabr.ru/post/343006/
+Инструментарий участника RAIC: https://habrahabr.ru/post/343006/
 
 Архитектуры ИИ: https://habrahabr.ru/post/173187/
 
