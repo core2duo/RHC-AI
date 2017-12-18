@@ -69,6 +69,8 @@
 
 
 # Общие статьи
+Инструментарий участника RAIC https://habrahabr.ru/post/343006/
+
 Архитектуры ИИ: https://habrahabr.ru/post/173187/
 
 RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
