@@ -62,7 +62,8 @@
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=220314)
 
 
-# 2017
+# 2017 - CodeWars - [Финал](http://russianaicup.ru/contest/4/standings) - [Песочница](http://russianaicup.ru/contest/1/standings)
+
 Анонс: https://habrahabr.ru/company/mailru/blog/340540/
 
 1 место (GreenTea): https://habrahabr.ru/post/345458/
