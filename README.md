@@ -3,16 +3,16 @@
 
 # 2012 - CodeTanks - [Финал](http://2012.russianaicup.ru/contest/4/standings) - [Песочница](http://2012.russianaicup.ru/contest/1/standings)
 
-1-ое место (Mr.Smile): [Путь к победе на Russian AI Cup 2012](https://habrahabr.ru/post/161333/)
+1 место (Mr.Smile): [Путь к победе на Russian AI Cup 2012](https://habrahabr.ru/post/161333/)
 
-2-ое место (Hohol): https://habrahabr.ru/post/161501/
+2 место (Hohol): https://habrahabr.ru/post/161501/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=168476)
 
 
 # 2013 - CodeTroopers - [Финал](http://2013.russianaicup.ru/contest/4/standings) - [Песочница](http://2013.russianaicup.ru/contest/1/standings)
 
-1-ое место: https://habrahabr.ru/post/206680/
+1 место: https://habrahabr.ru/post/206680/
 
 Видео доклад: http://www.moscowpython.ru/meetup/16/writing-ai-for-russian-ai-cup/
 
@@ -21,7 +21,7 @@
 
 # 2014 - CodeHockey - [Финал](http://2014.russianaicup.ru/contest/4/standings) - [Песочница](http://2014.russianaicup.ru/contest/1/standings)
 
-1-ое место (Mr.Smile): https://habrahabr.ru/post/241553/
+1 место (Mr.Smile): https://habrahabr.ru/post/241553/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=192787)
 
@@ -30,11 +30,11 @@
 
 Анонс: https://habrahabr.ru/company/mailru/blog/270759/
 
-1-ое место (Santa324): https://habrahabr.ru/post/273649/
+1 место (Santa324): https://habrahabr.ru/post/273649/
 
-5-ое место (SKolotienko): https://habrahabr.ru/post/273745/
+5 место (SKolotienko): https://habrahabr.ru/post/273745/
 
-30-е место (ruspartisan): https://habrahabr.ru/post/273579/
+30 место (ruspartisan): https://habrahabr.ru/post/273579/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=207554)
 
@@ -47,7 +47,7 @@
 
 Интервью победителя: https://tproger.ru/interview/russian-ai-cup-winner/
 
-2-ое место (Commandos): https://habrahabr.ru/post/318878/
+2 место (Commandos): https://habrahabr.ru/post/318878/
 
 Подведение итогов (+5 стратегий): https://habrahabr.ru/company/mailru/blog/325050/
 
@@ -64,6 +64,10 @@
 
 # 2017
 Анонс: https://habrahabr.ru/company/mailru/blog/340540/
+
+1 место (GreenTea): https://habrahabr.ru/post/345458/
+
+11 место (lama): https://habrahabr.ru/post/345598/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=230771)
 
