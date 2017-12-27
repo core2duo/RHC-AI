@@ -68,6 +68,8 @@
 
 1 место (GreenTea): https://habrahabr.ru/post/345458/
 
+4 место (tyamgin): https://habrahabr.ru/post/345566/
+
 11 место (lama): https://habrahabr.ru/post/345598/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=230771)
