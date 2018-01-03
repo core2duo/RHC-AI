@@ -70,6 +70,8 @@
 
 2 место (oreshnik): https://habrahabr.ru/post/345858/
 
+3 место (Leos): https://habrahabr.ru/post/345956/
+
 4 место (tyamgin): https://habrahabr.ru/post/345566/
 
 11 место (lama): https://habrahabr.ru/post/345598/
