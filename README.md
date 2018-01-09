@@ -1,6 +1,3 @@
-# RHC-AI
-Саша потерял куки на телеграф, нам нужен новый способ редактирования кладези (http://telegra.ph/kladez-06-14)
-
 # 2012 - CodeTanks - [Финал](http://2012.russianaicup.ru/contest/4/standings) - [Песочница](http://2012.russianaicup.ru/contest/1/standings)
 
 1 место (Mr.Smile): [Путь к победе на Russian AI Cup 2012](https://habrahabr.ru/post/161333/)
