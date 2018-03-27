@@ -4,6 +4,8 @@
 
 2 место (Hohol): https://habrahabr.ru/post/161501/
 
+9 место (GreenTea): http://brunneng.blogspot.ru/2012/12/russian-ai-cup-2012-tanks.html 
+
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=168476)
 
 
