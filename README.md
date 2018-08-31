@@ -1,4 +1,5 @@
-# 2012 - CodeTanks - [Финал](http://2012.russianaicup.ru/contest/4/standings) - [Песочница](http://2012.russianaicup.ru/contest/1/standings)
+# Russian AI Cup
+## 2012 - CodeTanks - [Финал](http://2012.russianaicup.ru/contest/4/standings) - [Песочница](http://2012.russianaicup.ru/contest/1/standings)
 
 1 место (Mr.Smile): [Путь к победе на Russian AI Cup 2012](https://habrahabr.ru/post/161333/)
 
@@ -9,7 +10,7 @@
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=168476)
 
 
-# 2013 - CodeTroopers - [Финал](http://2013.russianaicup.ru/contest/4/standings) - [Песочница](http://2013.russianaicup.ru/contest/1/standings)
+## 2013 - CodeTroopers - [Финал](http://2013.russianaicup.ru/contest/4/standings) - [Песочница](http://2013.russianaicup.ru/contest/1/standings)
 
 1 место: https://habrahabr.ru/post/206680/
 
@@ -18,14 +19,14 @@
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=182390)
 
 
-# 2014 - CodeHockey - [Финал](http://2014.russianaicup.ru/contest/4/standings) - [Песочница](http://2014.russianaicup.ru/contest/1/standings)
+## 2014 - CodeHockey - [Финал](http://2014.russianaicup.ru/contest/4/standings) - [Песочница](http://2014.russianaicup.ru/contest/1/standings)
 
 1 место (Mr.Smile): https://habrahabr.ru/post/241553/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=192787)
 
 
-# 2015 - CodeRacing - [Финал](http://2015.russianaicup.ru/contest/4/standings) - [Песочница](http://2015.russianaicup.ru/contest/1/standings)
+## 2015 - CodeRacing - [Финал](http://2015.russianaicup.ru/contest/4/standings) - [Песочница](http://2015.russianaicup.ru/contest/1/standings)
 
 Анонс: https://habrahabr.ru/company/mailru/blog/270759/
 
@@ -38,7 +39,7 @@
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=207554)
 
 
-# 2016 - CodeWizards - [Финал](http://2016.russianaicup.ru/contest/4/standings) - [Песочница](http://2016.russianaicup.ru/contest/1/standings)
+## 2016 - CodeWizards - [Финал](http://2016.russianaicup.ru/contest/4/standings) - [Песочница](http://2016.russianaicup.ru/contest/1/standings)
 
 Анонс: https://habrahabr.ru/company/mailru/blog/314594/
 
@@ -61,7 +62,7 @@
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=220314)
 
 
-# 2017 - CodeWars - [Финал](http://russianaicup.ru/contest/4/standings) - [Песочница](http://russianaicup.ru/contest/1/standings)
+## 2017 - CodeWars - [Финал](http://russianaicup.ru/contest/4/standings) - [Песочница](http://russianaicup.ru/contest/1/standings)
 
 Анонс: https://habrahabr.ru/company/mailru/blog/340540/
 
@@ -76,12 +77,21 @@
 11 место (lama): https://habrahabr.ru/post/345598/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=230771)
+# [Mini AI Cups](https://aicups.ru/)
 
+## Mini AI Cup 2
+
+Анонс: https://habr.com/company/mailru/blog/351522/
+
+1 место (Commandos): https://habr.com/post/420737/
 
 # Общие статьи
 Инструментарий участника RAIC: https://habrahabr.ru/post/343006/
 
 Архитектуры ИИ: https://habrahabr.ru/post/173187/
+
+Обзорная статья про различные техники реализации игрового ИИ: https://habr.com/post/420219/ \
+[Оригинал на английском](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/)
 
 RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
 
