@@ -93,6 +93,8 @@
 Обзорная статья про различные техники реализации игрового ИИ: https://habr.com/post/420219/ \
 [Оригинал на английском](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/)
 
+[Smitsimax - хитрая вариация Minimax для игр с одновременными ходами](https://tech.io/playgrounds/36476/smitsimax)
+
 RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
 
 [Репозиторий физ. движка RAIC](https://github.com/Russian-AI-Cup/notreal2d)
