@@ -85,6 +85,10 @@
 
 1 место (Commandos): https://habr.com/post/420737/
 
+## Mini AI Cup 3
+
+1, 3 и 4 места (Commandos/mortido/Valdemar сборная статья): https://habr.com/company/mailru/blog/430466/
+
 # Общие статьи
 Инструментарий участника RAIC: https://habrahabr.ru/post/343006/
 
