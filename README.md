@@ -62,7 +62,7 @@
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=220314)
 
 
-## 2017 - CodeWars - [Финал](http://russianaicup.ru/contest/4/standings) - [Песочница](http://russianaicup.ru/contest/1/standings)
+## 2017 - CodeWars - [Финал](http://2017.russianaicup.ru/contest/4/standings) - [Песочница](http://2017.russianaicup.ru/contest/1/standings)
 
 Анонс: https://habrahabr.ru/company/mailru/blog/340540/
 
@@ -77,6 +77,13 @@
 11 место (lama): https://habrahabr.ru/post/345598/
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=230771)
+
+## 2018 - CodeBall
+
+Анонс: https://habr.com/company/mailru/blog/432316/
+
+[GameDev форум](https://gamedev.ru/flame/forum/?id=240660)
+
 # [Mini AI Cups](https://aicups.ru/)
 
 ## Mini AI Cup 2
