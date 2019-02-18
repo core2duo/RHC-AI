@@ -82,6 +82,12 @@
 
 Анонс: https://habr.com/company/mailru/blog/432316/
 
+1 место (T1024): https://habr.com/ru/post/440398/
+
+9 место (lama): https://habr.com/ru/post/440574/
+
+18 место Нейронка (ykaland) : https://habr.com/ru/post/439886/
+
 [GameDev форум](https://gamedev.ru/flame/forum/?id=240660)
 
 # [Mini AI Cups](https://aicups.ru/)
