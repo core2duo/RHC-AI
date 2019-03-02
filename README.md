@@ -78,7 +78,7 @@
 
 [GameDev форум](http://www.gamedev.ru/flame/forum/?id=230771)
 
-## 2018 - CodeBall
+## 2018 - CodeBall - [Финал](http://2018.russianaicup.ru/contest/4/standings) - [Песочница](http://2018.russianaicup.ru/contest/1/standings)
 
 Анонс: https://habr.com/company/mailru/blog/432316/
 
@@ -87,6 +87,8 @@
 9 место (lama): https://habr.com/ru/post/440574/
 
 18 место Нейронка (ykaland) : https://habr.com/ru/post/439886/
+
+Вводная статья (Geotyper): https://habr.com/ru/post/434838/
 
 [GameDev форум](https://gamedev.ru/flame/forum/?id=240660)
 
