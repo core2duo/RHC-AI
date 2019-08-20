@@ -128,7 +128,8 @@ RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
 
 [GDC Valut](https://www.gdcvault.com/search.php?categories=Ai#&category=free)
 
-
+# Видео-курсы
+[Udacity Reinforcement Learning (Advanced)](https://www.udacity.com/course/reinforcement-learning--ud600) - Q-learning, Markov decision process, MCTS и много других интересных тем
 
 # Статьи Codingame
 [Список контестов](https://www.codingame.com/multiplayer/bot-programming)
