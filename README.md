@@ -84,6 +84,8 @@
 
 1 место (T1024): https://habr.com/ru/post/440398/
 
+2 место (TonyK): https://habr.com/company/mailru/blog/440924/
+
 9 место (lama): https://habr.com/ru/post/440574/
 
 18 место Нейронка (ykaland) : https://habr.com/ru/post/439886/
