@@ -104,6 +104,8 @@
 
 16 место (SilentNox) https://habr.com/ru/company/mailru/blog/488078/
 
+[GameDev форум](https://gamedev.ru/flame/forum/?id=248506)
+
 # [Mini AI Cups](https://aicups.ru/)
 
 ## Mini AI Cup 1
