@@ -136,6 +136,9 @@ RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
 # Статьи Codingame
 [Список контестов](https://www.codingame.com/multiplayer/bot-programming)
 
+## Legends of Code and Magic
+Стрим написания бота от reCurse - - подробное видео с приемами сохранения состояния для отладки, симуляцией, случайным поиском https://www.youtube.com/watch?v=BU9b445CpaM, https://www.youtube.com/watch?v=W17_RP9ijf4
+
 ## Coders Strike Back - [Финал](https://www.codingame.com/leaderboards/challenge/coders-strike-back/global) - [Песочница](https://www.codingame.com/leaderboards/puzzle/coders-strike-back/global)
 7 место (Magus): http://files.magusgeek.com/csb/csb_en.html
 
