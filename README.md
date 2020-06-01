@@ -94,7 +94,23 @@
 
 [GameDev форум](https://gamedev.ru/flame/forum/?id=240660)
 
+## 2019 - CodeSide
+
+Анонс: https://habr.com/ru/company/mailru/blog/477704/
+
+1 место (T1024) https://habr.com/ru/post/490536/
+
+9 место (lama) https://habr.com/ru/company/mailru/blog/485372/
+
+16 место (SilentNox) https://habr.com/ru/company/mailru/blog/488078/
+
+[GameDev форум](https://gamedev.ru/flame/forum/?id=248506)
+
 # [Mini AI Cups](https://aicups.ru/)
+
+## Mini AI Cup 1
+
+Анонс: https://habr.com/ru/company/mailru/blog/337942/
 
 ## Mini AI Cup 2
 
@@ -107,6 +123,12 @@
 Анонс: https://habr.com/company/mailru/blog/421397/
 
 1, 3 и 4 места (Commandos/mortido/Valdemar сборная статья): https://habr.com/company/mailru/blog/430466/
+
+## Mini AI Cup 4
+
+Анонс: https://habr.com/ru/company/mailru/blog/459232/
+
+2 место (volk1674): https://habr.com/ru/post/466597/
 
 # Общие статьи
 Инструментарий участника RAIC: https://habrahabr.ru/post/343006/
