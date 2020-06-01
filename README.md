@@ -138,6 +138,7 @@ RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
 
 ## Coders Strike Back - [Финал](https://www.codingame.com/leaderboards/challenge/coders-strike-back/global) - [Песочница](https://www.codingame.com/leaderboards/puzzle/coders-strike-back/global)
 7 место (Magus): http://files.magusgeek.com/csb/csb_en.html
+Использование Nash-DQN в Coders Strike Back https://github.com/pb4git/Nash-DQN-CSB-Article
 
 ## HyperSonic - [Финал](https://www.codingame.com/leaderboards/challenge/hypersonic/global) - [Песочница](https://www.codingame.com/leaderboards/puzzle/hypersonic/global)
 [How to master Hypersonic: best strategies](https://www.codingame.com/blog/how-to-master-hypersonic-best-strategies/)
