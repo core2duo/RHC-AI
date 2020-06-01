@@ -160,6 +160,7 @@ RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
 
 ## Coders Strike Back - [Финал](https://www.codingame.com/leaderboards/challenge/coders-strike-back/global) - [Песочница](https://www.codingame.com/leaderboards/puzzle/coders-strike-back/global)
 7 место (Magus): http://files.magusgeek.com/csb/csb_en.html
+Использование Nash-DQN в Coders Strike Back https://github.com/pb4git/Nash-DQN-CSB-Article
 
 ## HyperSonic - [Финал](https://www.codingame.com/leaderboards/challenge/hypersonic/global) - [Песочница](https://www.codingame.com/leaderboards/puzzle/hypersonic/global)
 [How to master Hypersonic: best strategies](https://www.codingame.com/blog/how-to-master-hypersonic-best-strategies/)
@@ -180,3 +181,6 @@ RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
 
 ## Wondev Woman - [Финал](https://www.codingame.com/leaderboards/challenge/wondev-woman/global) - [Песочница](https://www.codingame.com/leaderboards/puzzle/wondev-woman/global)
 2 место (Agade): https://github.com/Agade09/Agade-Wondev-Woman-Postmortem/blob/master/Agade_WW_Postmortem.md
+
+## Legends of Code and Magic
+Стрим написания бота от reCurse - подробное видео с примером написания бота, приемами сохранения состояния для отладки, симуляцией, случайным поиском https://www.youtube.com/watch?v=BU9b445CpaM, https://www.youtube.com/watch?v=W17_RP9ijf4
