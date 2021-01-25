@@ -114,6 +114,8 @@
 
 7 место (Romka) https://www.youtube.com/watch?v=ALZSSqHCp78, https://www.youtube.com/watch?v=1lpNGxD_Mv8
 
+18 место (ThermIt) https://github.com/ThermIt/CodeCraft-2020
+
 [GameDev форум](https://gamedev.ru/flame/forum/?id=256675)
 
 # [Mini AI Cups](https://aicups.ru/)
