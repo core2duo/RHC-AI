@@ -106,6 +106,18 @@
 
 [GameDev форум](https://gamedev.ru/flame/forum/?id=248506)
 
+## 2020 - CodeCraft
+
+Анонс: https://habr.com/ru/company/mailru/blog/530232/
+
+4 место (GreenTea) https://habr.com/ru/post/535310/
+
+7 место (Romka) https://www.youtube.com/watch?v=ALZSSqHCp78, https://www.youtube.com/watch?v=1lpNGxD_Mv8
+
+18 место (ThermIt) https://github.com/ThermIt/CodeCraft-2020
+
+[GameDev форум](https://gamedev.ru/flame/forum/?id=256675)
+
 # [Mini AI Cups](https://aicups.ru/)
 
 ## Mini AI Cup 1
