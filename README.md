@@ -110,9 +110,13 @@
 
 Анонс: https://habr.com/ru/company/mailru/blog/530232/
 
+Дискуссия топов и вопросы: https://www.youtube.com/watch?v=ooOi0mj-eko
+
 4 место (GreenTea) https://habr.com/ru/post/535310/
 
 7 место (Romka) https://www.youtube.com/watch?v=ALZSSqHCp78, https://www.youtube.com/watch?v=1lpNGxD_Mv8
+
+16 место (Lama) https://habr.com/ru/post/543194/
 
 18 место (ThermIt) https://github.com/ThermIt/CodeCraft-2020
 
