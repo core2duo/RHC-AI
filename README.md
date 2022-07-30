@@ -100,6 +100,8 @@
 
 1 место (T1024) https://habr.com/ru/post/490536/
 
+4 место (Cerner) https://habr.com/ru/post/532716/
+
 9 место (lama) https://habr.com/ru/company/mailru/blog/485372/
 
 16 место (SilentNox) https://habr.com/ru/company/mailru/blog/488078/
