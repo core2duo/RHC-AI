@@ -1,170 +1,195 @@
 # Russian AI Cup
-## 2012 - CodeTanks - [Финал](http://2012.russianaicup.ru/contest/4/standings) - [Песочница](http://2012.russianaicup.ru/contest/1/standings)
+## 2012 - CodeTanks - [Main](https://web.archive.org/web/20121230145736/http://russianaicup.ru/) - [Finals](https://web.archive.org/web/20121226043824/http://russianaicup.ru/contest/4/standings) - [Sandbox](https://web.archive.org/web/20121225234231/http://russianaicup.ru/contest/1/standings)
 
-1 место (Mr.Smile): [Путь к победе на Russian AI Cup 2012](https://habrahabr.ru/post/161333/)
+The announcement: https://habr.com/ru/companies/vk/articles/156901/
 
-2 место (Hohol): https://habrahabr.ru/post/161501/
+The announcement 2: https://codeforces.com/blog/entry/5682
 
-9 место (GreenTea): http://brunneng.blogspot.ru/2012/12/russian-ai-cup-2012-tanks.html 
+1st place (Mr.Smile): https://habr.com/ru/articles/161333/
 
-[GameDev форум](http://www.gamedev.ru/flame/forum/?id=168476)
+2nd place (Hohol): https://habr.com/ru/articles/161501/
 
+9th place (GreenTea): http://brunneng.blogspot.ru/2012/12/russian-ai-cup-2012-tanks.html 
 
-## 2013 - CodeTroopers - [Финал](http://2013.russianaicup.ru/contest/4/standings) - [Песочница](http://2013.russianaicup.ru/contest/1/standings)
+Results: https://habr.com/ru/companies/vk/articles/162505/
 
-1 место: https://habrahabr.ru/post/206680/
-
-Видео доклад: http://www.moscowpython.ru/meetup/16/writing-ai-for-russian-ai-cup/
-
-[GameDev форум](http://www.gamedev.ru/flame/forum/?id=182390)
+[GameDev forum](http://www.gamedev.ru/flame/forum/?id=168476)
 
 
-## 2014 - CodeHockey - [Финал](http://2014.russianaicup.ru/contest/4/standings) - [Песочница](http://2014.russianaicup.ru/contest/1/standings)
+## 2013 - CodeTroopers - [Main](https://web.archive.org/web/20131230141700/http://russianaicup.ru/) - [Finals](http://2013.russianaicup.ru/contest/4/standings) - [Sandbox](http://2013.russianaicup.ru/contest/1/standings)
 
-1 место (Mr.Smile): https://habrahabr.ru/post/241553/
+The announcement: https://habr.com/ru/companies/vk/articles/202144/
 
-[GameDev форум](http://www.gamedev.ru/flame/forum/?id=192787)
+The announcement 2: https://codeforces.com/blog/entry/9440
 
+1st place (slash): https://habr.com/ru/articles/206680/
 
-## 2015 - CodeRacing - [Финал](http://2015.russianaicup.ru/contest/4/standings) - [Песочница](http://2015.russianaicup.ru/contest/1/standings)
+Video report: [Writing AI for the Russian AI Cup](http://www.moscowpython.ru/meetup/16/writing-ai-for-russian-ai-cup/)
 
-Анонс: https://habrahabr.ru/company/mailru/blog/270759/
-
-1 место (Santa324): https://habrahabr.ru/post/273649/
-
-5 место (SKolotienko): https://habrahabr.ru/post/273745/
-
-30 место (ruspartisan): https://habrahabr.ru/post/273579/
-
-[GameDev форум](http://www.gamedev.ru/flame/forum/?id=207554)
+[GameDev forum](http://www.gamedev.ru/flame/forum/?id=182390)
 
 
-## 2016 - CodeWizards - [Финал](http://2016.russianaicup.ru/contest/4/standings) - [Песочница](http://2016.russianaicup.ru/contest/1/standings)
+## 2014 - CodeHockey - [Main](https://web.archive.org/web/20141218014506/http://russianaicup.ru/) - [Finals](https://web.archive.org/web/20150515061840/http://russianaicup.ru/contest/4/standings) - [Sandbox](https://web.archive.org/web/20150515062410/http://russianaicup.ru/contest/1/standings)
 
-Анонс: https://habrahabr.ru/company/mailru/blog/314594/
+The announcement: https://codeforces.com/blog/entry/13793
 
-Анонс 2: https://tproger.ru/articles/russianaicup-2016/
+1st place (Mr.Smile): https://habr.com/ru/articles/241553/
 
-Интервью победителя: https://tproger.ru/interview/russian-ai-cup-winner/
+Results: https://habr.com/ru/companies/vk/articles/240975/
 
-2 место (Commandos): https://habrahabr.ru/post/318878/
-
-Подведение итогов (+5 стратегий): https://habrahabr.ru/company/mailru/blog/325050/
-
-История Lama: http://lama.od.ua/stuff/wiz.html
-
-Статья от Stef (поиск пути): https://habrahabr.ru/post/318946/
-
-Использование нейросетей: https://habrahabr.ru/post/319518/
-
-[Обсуждение и презентация решений на форуме](http://russianaicup.ru/forum/index.php?topic=763.0)
-
-[GameDev форум](http://www.gamedev.ru/flame/forum/?id=220314)
+[GameDev forum](http://www.gamedev.ru/flame/forum/?id=192787)
 
 
-## 2017 - CodeWars - [Финал](http://2017.russianaicup.ru/contest/4/standings) - [Песочница](http://2017.russianaicup.ru/contest/1/standings)
+## 2015 - CodeRacing - [Main](https://web.archive.org/web/20151231163919/http://russianaicup.ru/) - [Finals](https://web.archive.org/web/20160121040308/http://russianaicup.ru/contest/4/standings) - [Sandbox](https://web.archive.org/web/20160120150251/http://russianaicup.ru/contest/1/standings)
 
-Анонс: https://habrahabr.ru/company/mailru/blog/340540/
+The announcement: https://habr.com/ru/companies/vk/articles/270759/
 
-1 место (GreenTea): https://habrahabr.ru/post/345458/
+The announcement 2: https://codeforces.com/blog/entry/21566
 
-2 место (oreshnik): https://habrahabr.ru/post/345858/
+1st place (Santa324): https://habr.com/ru/articles/273649/
 
-3 место (Leos): https://habrahabr.ru/post/345956/
+5th place (SKolotienko): https://habr.com/ru/articles/273745/
 
-4 место (tyamgin): https://habrahabr.ru/post/345566/
+30th place (ruspartisan): https://habr.com/ru/articles/273579/
 
-11 место (lama): https://habrahabr.ru/post/345598/
+Results: https://habr.com/ru/companies/vk/articles/272893/
 
-[GameDev форум](http://www.gamedev.ru/flame/forum/?id=230771)
+[GameDev forum](http://www.gamedev.ru/flame/forum/?id=207554)
 
-## 2018 - CodeBall - [Финал](http://2018.russianaicup.ru/contest/4/standings) - [Песочница](http://2018.russianaicup.ru/contest/1/standings)
 
-Анонс: https://habr.com/company/mailru/blog/432316/
+## 2016 - CodeWizards - [Main](https://web.archive.org/web/20170323152054/http://russianaicup.ru/) - [Finals](https://web.archive.org/web/20170602155308/http://russianaicup.ru/contest/4/standings) - [Sandbox](https://web.archive.org/web/20170602155244/http://russianaicup.ru/contest/1/standings)
 
-1 место (T1024): https://habr.com/ru/post/440398/
+The announcement: https://habr.com/ru/companies/vk/articles/314594/
 
-2 место (TonyK): https://habr.com/company/mailru/blog/440924/
+The announcement 2: https://tproger.ru/articles/russianaicup-2016
 
-9 место (lama): https://habr.com/ru/post/440574/
+The announcement 3: https://codeforces.com/blog/entry/48258
 
-18 место Нейронка (ykaland) : https://habr.com/ru/post/439886/
+Interview of the winner: https://tproger.ru/interview/russian-ai-cup-winner/
 
-Вводная статья (Geotyper): https://habr.com/ru/post/434838/
+2nd place (Commandos): https://habr.com/ru/articles/318878/
 
-[GameDev форум](https://gamedev.ru/flame/forum/?id=240660)
+Summing up (+5 strategies): https://habr.com/ru/companies/vk/articles/325050/
+
+Lama: http://lama.od.ua/stuff/wiz.html
+
+Stef's article: https://habr.com/ru/articles/318946/
+
+The neural network is playing Dota (Parilo): https://habr.com/ru/articles/319518/
+
+[Discussion and presentation of solutions on the official forum](https://web.archive.org/web/20171114092406/http://russianaicup.ru/forum/index.php?topic=763.0)
+
+[GameDev forum](http://www.gamedev.ru/flame/forum/?id=220314)
+
+
+## 2017 - CodeWars - [Main](https://web.archive.org/web/20180225010546/http://russianaicup.ru/) [Finals](https://web.archive.org/web/20180221181842/http://russianaicup.ru/contest/4/standings) - [Sandbox](https://web.archive.org/web/20180128224702/http://russianaicup.ru/contest/1/standings)
+
+The announcement: https://habr.com/ru/companies/vk/articles/340540/
+
+The announcement 2: https://codeforces.com/blog/entry/55773
+
+1st place (GreenTea): https://habr.com/ru/articles/345458/
+
+2nd place (oreshnik): https://habr.com/ru/articles/345858/
+
+3rd place (Leos): https://habr.com/ru/articles/345956/
+
+4th place (tyamgin): https://habr.com/ru/articles/345566/
+
+11th place (lama): https://habr.com/ru/articles/345598/
+
+[GameDev forum](http://www.gamedev.ru/flame/forum/?id=230771)
+
+## 2018 - CodeBall - [Main](https://web.archive.org/web/20190314025317/http://russianaicup.ru/)
+
+The announcement: https://habr.com/company/mailru/blog/432316/
+
+The announcement 2: https://codeforces.com/blog/entry/64002
+
+1st place (T1024): https://habr.com/ru/post/440398/
+
+2nd place (TonyK): https://habr.com/company/mailru/blog/440924/
+
+9th place (lama): https://habr.com/ru/post/440574/
+
+18th place (neural network) (ykaland) : https://habr.com/ru/post/439886/
+
+Introductory article (Geotyper): https://habr.com/ru/post/434838/
+
+[GameDev forum](https://gamedev.ru/flame/forum/?id=240660)
 
 ## 2019 - CodeSide
 
-Анонс: https://habr.com/ru/company/mailru/blog/477704/
+The announcement: https://habr.com/ru/company/mailru/blog/477704/
 
-1 место (T1024) https://habr.com/ru/post/490536/
+The announcement 2: https://codeforces.com/blog/entry/71898
 
-4 место (Cerner) https://habr.com/ru/post/532716/
+1st place (T1024) https://habr.com/ru/post/490536/
 
-9 место (lama) https://habr.com/ru/company/mailru/blog/485372/
+4th place (Cerner) https://habr.com/ru/post/532716/
 
-16 место (SilentNox) https://habr.com/ru/company/mailru/blog/488078/
+9th place (lama) https://habr.com/ru/company/mailru/blog/485372/
 
-[GameDev форум](https://gamedev.ru/flame/forum/?id=248506)
+16th place (SilentNox) https://habr.com/ru/company/mailru/blog/488078/
 
-## 2020 - CodeCraft
+[GameDev forum](https://gamedev.ru/flame/forum/?id=248506)
 
-Анонс: https://habr.com/ru/company/mailru/blog/530232/
+## 2020 - CodeCraft - [Main](https://web.archive.org/web/20210301192105/https://russianaicup.ru/) - [Finals](https://web.archive.org/web/20210127184044/https://russianaicup.ru/contest/4/standings) - [Sandbox](https://web.archive.org/web/20210127195326/https://russianaicup.ru/contest/1/standings)
 
-Дискуссия топов и вопросы: https://www.youtube.com/watch?v=ooOi0mj-eko
+The announcement: https://habr.com/ru/company/mailru/blog/530232/
 
-4 место (GreenTea) https://habr.com/ru/post/535310/
+Winners' discussion and questions: https://www.youtube.com/watch?v=ooOi0mj-eko
 
-7 место (Romka) https://www.youtube.com/watch?v=ALZSSqHCp78, https://www.youtube.com/watch?v=1lpNGxD_Mv8
+4th place (GreenTea) https://habr.com/ru/post/535310/
 
-16 место (Lama) https://habr.com/ru/post/543194/
+7th place (Romka) https://www.youtube.com/watch?v=ALZSSqHCp78, https://www.youtube.com/watch?v=1lpNGxD_Mv8
 
-18 место (ThermIt) https://github.com/ThermIt/CodeCraft-2020
+16th place (Lama) https://habr.com/ru/post/543194/
 
-[GameDev форум](https://gamedev.ru/flame/forum/?id=256675)
+18th place (ThermIt) https://github.com/ThermIt/CodeCraft-2020
+
+[GameDev forum](https://gamedev.ru/flame/forum/?id=256675)
 
 # [Mini AI Cups](https://aicups.ru/)
 
 ## Mini AI Cup 1
 
-Анонс: https://habr.com/ru/company/mailru/blog/337942/
+The announcement: https://habr.com/ru/company/mailru/blog/337942/
 
 ## Mini AI Cup 2
 
-Анонс: https://habr.com/company/mailru/blog/351522/
+The announcement: https://habr.com/company/mailru/blog/351522/
 
-1 место (Commandos): https://habr.com/post/420737/
+1st place (Commandos): https://habr.com/post/420737/
 
 ## Mini AI Cup 3
 
-Анонс: https://habr.com/company/mailru/blog/421397/
+The announcement: https://habr.com/company/mailru/blog/421397/
 
-1, 3 и 4 места (Commandos/mortido/Valdemar сборная статья): https://habr.com/company/mailru/blog/430466/
+1st, 3rd and 4th places (Commandos/mortido/Valdemar together): https://habr.com/company/mailru/blog/430466/
 
 ## Mini AI Cup 4
 
-Анонс: https://habr.com/ru/company/mailru/blog/459232/
+The announcement: https://habr.com/ru/company/mailru/blog/459232/
 
-2 место (volk1674): https://habr.com/ru/post/466597/
+2nd place (volk1674): https://habr.com/ru/post/466597/
 
-# Общие статьи
-Инструментарий участника RAIC: https://habrahabr.ru/post/343006/
+# Common articles
+Russian AI Cup: participant's toolkit (mortido): https://habr.com/ru/articles/343006/
 
-Архитектуры ИИ: https://habrahabr.ru/post/173187/
+AI Architectures: https://habr.com/ru/articles/173187/
 
-Обзорная статья про различные техники реализации игрового ИИ: https://habr.com/post/420219/ \
-[Оригинал на английском](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/)
+[The Total Beginner's Guide to Game AI](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) and in Russian [Обзор техник реализации игрового ИИ](https://habr.com/post/420219/)
 
 [Smitsimax - хитрая вариация Minimax для игр с одновременными ходами](https://tech.io/playgrounds/36476/smitsimax)
 
-RAIC платформа: https://habrahabr.ru/company/mailru/blog/205756/
+Russian AI Cup: technical details: https://habr.com/ru/companies/vk/articles/205756/
 
-[Репозиторий физ. движка RAIC](https://github.com/Russian-AI-Cup/notreal2d)
+[Simple 2D physics engine for Russian AI Cup](https://github.com/Russian-AI-Cup/notreal2d)
 
 [Steering Behaviors For Autonomous Characters](http://www.red3d.com/cwr/steer/gdc99/)
 
-[MCTS реализация на С++](https://github.com/memo/ofxMSAmcts)
+[Simple C++ MCTS (Monte Carlo Tree Search) implementation](https://github.com/memo/ofxMSAmcts)
 
 [Game AI PRO](http://www.gameaipro.com/)
 
