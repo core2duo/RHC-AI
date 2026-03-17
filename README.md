@@ -3,6 +3,8 @@
 
 1st place (core2duo): https://github.com/core2duo/RHC-AI/blob/master/2026/gameaicup_1_core2duo/README.md
 
+2nd place (sss135): https://github.com/SSS135/Contests/blob/main/GameAICup2026.md
+
 3rd place (levelrusso): https://gist.github.com/levssimonov/0ed04c9901b5bbcf6006735aaede3442
 
 4th place (YurkovAS): https://github.com/yurkovas/Contests/tree/main/GameAICup/2026-space-miners
