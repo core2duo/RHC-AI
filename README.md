@@ -1,3 +1,12 @@
+# Game AI Cup
+## #1 Space Miners
+
+1st place (core2duo): https://github.com/core2duo/RHC-AI/blob/master/2026/gameaicup_1_core2duo/README.md
+
+3rd place (levelrusso): https://gist.github.com/levssimonov/0ed04c9901b5bbcf6006735aaede3442
+
+4th place (YurkovAS): https://github.com/yurkovas/Contests/tree/main/GameAICup/2026-space-miners
+
 # Russian AI Cup
 ## 2012 - CodeTanks - [Main](https://web.archive.org/web/20121230145736/http://russianaicup.ru/) - [Finals](https://web.archive.org/web/20121226043824/http://russianaicup.ru/contest/4/standings) - [Sandbox](https://web.archive.org/web/20121225234231/http://russianaicup.ru/contest/1/standings)
 
